@@ -220,7 +220,7 @@ E. Логотип для межгалактического билборда
 
 Логотип будут использовать в разных условиях, например, на гигантском межгалактическом билборде. Билборд увидят обитатели всех Миров Вселенной Яндекса. Чтобы это было максимально удобно, сверстайте его с помощью одного HTML-элемента на чистом CSS. Использовать картинки (даже через data:uri) нельзя.
 
-![copy example](/testsys/markdown-image?code=eyJwYXRoIjoic3RhdGVtZW50cy9zdGF0ZW1lbnQtaW1nLnBuZyIsInByb2JsZW1JZCI6IjUwODU4NS8yMDI0XzA0XzEzL0NOanVacXBTTVAiLCJzaWduIjoiM2VmZmRmYjBlYzI2ODUzYThhNjE0MGExOTI4YTQ0MDU0MmZlZjM1ZWMyNWRlYjc3MzBiN2NhZTk4MDk1NDAyMyJ9)
+![copy example](./E/markdown-image.png)
 
 Примечания
 ----------
